@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aaryan Barde</h1>
-<h3 align="center">Exploring the Frontiers of Data: Machine Learning & Analytics Enthusiast</h3>
+<h3 align="center">Cybersecurity Consultant | Blue Team | Microsoft Defender XDR | Threat Hunting | KQL | Python | Always building, always learning.</h3>
 
--  🌱 I’m currently Working on **Machine Learning, Computer Vision**
--  🎓 B.Tech | AI & ML Enthusiast | Researcher
--  🛠️ Working with Python, Machine Learning, Computer Vision
--  📚 Published in IEEE, Springer | Best Paper Awardee
--  🌟 Passionate about building AI solutions for real-world problems
--  🔗 Let’s connect and collaborate!  **aaryanbarde09@gmail.com**
+-🛡️ Cybersecurity Consultant @ LTIMindtree
+-🔍 Threat Hunting | Detection Engineering | Microsoft Defender XDR
+-☁️ Azure • Microsoft Sentinel • KQL • Python
+-🚀 Building real-world Blue Team & SOC Automation projects
+-🌍 Aspiring Security Engineer 
+-🔗 Let’s connect and collaborate!  **aaryanbarde09@gmail.com**
 
 
 
