@@ -23,4 +23,3 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryan090603&show_icons=true&locale=en&layout=compact" alt="aaryan090603" /></p>
-<p><img align ="left" alt="coding" width="400" src="https://leetcard.jacoblin.cool/Aaryan0906?theme=dark&font=Abel&ext=heatmap"></p>
